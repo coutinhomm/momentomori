@@ -23,7 +23,7 @@ Inspired by the book *Four Thousand Weeks: Time Management for Mortals* by Olive
 ## 🧠 Inspiration
 
 - *Four Thousand Weeks* – Oliver Burkeman  
-- ["Your Life in Weeks" – Tim Urban](https://waitbutwhy.com/2014/05/life-weeks.html)  
+- [“Your Life in Weeks” – Tim Urban](https://waitbutwhy.com/2014/05/life-weeks.html)  
 - Stoicism, mortality, and the art of doing less — with meaning
 
 ---
@@ -31,11 +31,10 @@ Inspired by the book *Four Thousand Weeks: Time Management for Mortals* by Olive
 ## 📦 Run Locally
 
 ```bash
-git clone https://github.com/coutinhomm/momentomori.git
+git clone https://github.com/your-username/momento-mori.git
 cd momento-mori
 open index.html
-
-Or just visit the site. Contemplate. Continue.
+```
 
 ⸻
 
@@ -53,4 +52,4 @@ That means you’re alive.
 
 ---
 
-Se quiser, eu também posso te preparar a frase de abertura perfeita pra página — algo que combine com o livro e que assombre o visitante com... elegância. Deseja um toque final desses?
+Tudo está agora perfeitamente renderizável. O que mais deseja, senhor da ampulheta? Uma citação inicial? Uma dedicatória ao tempo desperdiçado?
