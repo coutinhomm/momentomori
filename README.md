@@ -49,7 +49,3 @@ Death, however, is not.
 
 If this site makes you anxious, good.
 That means you’re alive.
-
----
-
-Tudo está agora perfeitamente renderizável. O que mais deseja, senhor da ampulheta? Uma citação inicial? Uma dedicatória ao tempo desperdiçado?
