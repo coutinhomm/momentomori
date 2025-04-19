@@ -31,7 +31,7 @@ Inspired by the book *Four Thousand Weeks: Time Management for Mortals* by Olive
 ## 📦 Run Locally
 
 ```bash
-git clone https://github.com/your-username/momento-mori.git
+git clone https://github.com/coutinhomm/momentomori.git
 cd momento-mori
 open index.html
 ```
